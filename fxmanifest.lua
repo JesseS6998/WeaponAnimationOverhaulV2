@@ -9,6 +9,10 @@ client_scripts {
     'WAOverride.lua'
 }
 
+server_scripts {
+    'sv_WAOverride.lua'
+}
+
 files {
     'cnt/*.meta'
 }
